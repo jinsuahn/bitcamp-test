@@ -1,4 +1,0 @@
-   AA
-    BBBB
-      CCCCC
-        DDDDDD
